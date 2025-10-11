@@ -20,22 +20,22 @@ Publications
 -----
 1. **Cai, Y.**, Yang, H., Ma, Y., & Hang, H.  
    [*Bagged Regularized k-Distances for Anomaly Detection*](https://jmlr.org/papers/v26/23-1519.html).  
-   *Journal of Machine Learning Research*, **26**(178): 1–59, 2025.
+   *Journal of Machine Learning Research*, 26(178): 1–59, 2025.
 
 2. Ma, Y., Zhang, H., **Cai, Y.**, & Yang, H.  
    [*Decision Tree for Locally Private Estimation with Public Data*](https://proceedings.neurips.cc/paper_files/paper/2023/hash/88237ac4e9941b1be5c6d3c1ad408184-Abstract-Conference.html).  
-   *Proceedings of the 37th Conference on Neural Information Processing Systems*, **36**: 43676–43705, 2023.
+   *Proceedings of the 37th Conference on Neural Information Processing Systems*, 36: 43676–43705, 2023.
 
 3. **Cai, Y.**, Ma, Y., Dong, Y., & Yang, H.  
    [*Extrapolated Random Tree for Regression*](https://proceedings.mlr.press/v202/cai23d.html).  
-   *Proceedings of the 40th International Conference on Machine Learning*, **202**: 3442–3468, 2023.
+   *Proceedings of the 40th International Conference on Machine Learning*, 202: 3442–3468, 2023.
 
 4. Hang, H., **Cai, Y.**, Yang, H., & Lin, Z.  
    [*Under-bagging Nearest Neighbors for Imbalanced Classification*](https://www.jmlr.org/papers/v23/21-0904.html).  
-   *Journal of Machine Learning Research*, **23**(118): 1–63, 2022.
+   *Journal of Machine Learning Research*, 23(118): 1–63, 2022.
 
 5. **Cai, Y.**, Hang, H., Yang, H., & Lin, Z.  
    [*Boosted Histogram Transform for Regression*](http://proceedings.mlr.press/v119/cai20a.html).  
-   *Proceedings of the 37th International Conference on Machine Learning*, **119**: 1251–1261, 2020.
+   *Proceedings of the 37th International Conference on Machine Learning*, 119: 1251–1261, 2020.
 
 
