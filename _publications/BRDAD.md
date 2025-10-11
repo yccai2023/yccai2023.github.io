@@ -1,7 +1,7 @@
 ---
 title: "Bagged Regularized $k$-Distances for Anomaly Detection"
 collection: publications
-category: conferences
+category: manucsripts
 permalink: /publication/BRDAD
 excerpt: 
 date: 2025
