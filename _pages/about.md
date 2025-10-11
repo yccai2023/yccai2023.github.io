@@ -11,9 +11,9 @@ I am a postdoctoral researcher in the [Department of Statistics and Data Science
 
 Research Interests
 -----
-- Tree-based methods: Theory and methodology for tree-based models, emphasizing on the benefits of ensembling in random forests.
-- Bagged nearest neighbors estimators: Statistical properties and computational efficiency of bagging procedures for large-scale data.
-- Unsupervised learning: Developing new methods with statistical guarantees for problems such as anomaly detection and data imputation.
+- **Tree-based methods**: Theory and methodology for tree-based models, emphasizing on the benefits of ensembling in random forests.
+- **Bagged nearest neighbors estimators**: Statistical properties and computational efficiency of bagging procedures for large-scale data.
+- **Unsupervised learning**: Developing new methods with statistical guarantees for problems such as anomaly detection and data imputation.
 
 
 Publications
