@@ -13,7 +13,7 @@ title                    : "Yuchao Cai / Homepage"
 title_separator          : "-"
 name                     : &name "Yuchao Cai"
 description              : &description "Ph.D. in statistics and data science"  
-url                      : "https://yccai2023.github.io"   # ← 必须加引号
+url                      : https://yccai2023.github.io   
 baseurl                  : ""  # keep empty for user site
 repository               : "yccai2023/yccai2023.github.io"
 
