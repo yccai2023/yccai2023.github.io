@@ -2,7 +2,7 @@
 title: "Bagged Regularized $k$-Distances for Anomaly Detection."
 collection: publications
 category: journal
-permalink: /publication/Bagged Regularized k-Distances for Anomaly Detection.
+permalink: /publication/Bagged Regularized k-Distances for Anomaly Detection
 date: 2025
 venue: 'Journal of Machine Learning Research'
 paperurl: 'https://jmlr.org/papers/v26/23-1519.html'
