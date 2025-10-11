@@ -78,13 +78,13 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
- # Publication Category - The following the list of publication categories and their headings
- publication_category:
-   books:
+# Publication Category - The following the list of publication categories and their headings
+publication_category:
+  books:
      title: 'Books'
-   manuscripts:
+  manuscripts:
      title: 'Journal Articles'    
-   conferences:
+  conferences:
      title: 'Conference Papers'
 
 # Site Settings
