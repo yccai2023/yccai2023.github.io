@@ -8,12 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Tongyu Li / Homepage"
+site_theme               : "default" # Currently available options are "default", "air"
+title                    : "Yuchao Cai / Homegape"
 title_separator          : "-"
-name                     : &name "Tongyu"
-description              : &description "PhD in Statistics"
-url                      : https://yccai2023.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Yuchao Cai"
+description              : &description "Ph.D. in statistics and data science"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://yccai2023.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yccai2023/yccai2023.github.io"
 
@@ -22,19 +23,19 @@ repository               : "yccai2023/yccai2023.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
-  name             : "Tongyu Li 李通宇"
+  avatar           : "profile.png"
+  name             : "Yuchao Cai 蔡宇超"
   pronouns         : # example: "she/her"  
   bio              : "Research Fellow"
   location         : "Singapore"
   employer         : "National University of Singapore"
   uri              : # URL
-  email            : "tongyuli@nus.edu.sg" 
+  email            : "yccai@nus.edu.sg" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=hoR0hz8AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=u-NwlIEAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
@@ -47,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "kellty"
+  github           : "yccai2023"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -76,16 +77,16 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "chun-cui-8-18" # Username
+  zhihu            : # Username
 
-# Publication Category - The following the list of publication categories and their headings
-# publication_category:
-#   books:
-#     title: 'Books'
-#   manuscripts:
-#     title: 'Journal Articles'    
-#   conferences:
-#     title: 'Conference Papers'
+ Publication Category - The following the list of publication categories and their headings
+ publication_category:
+   books:
+     title: 'Books'
+   manuscripts:
+     title: 'Journal Articles'    
+   conferences:
+     title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
