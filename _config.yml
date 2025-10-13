@@ -22,7 +22,7 @@ repository               : "yccai2023/yccai2023.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yuchao Cai 蔡宇超"
   pronouns         : # example: "she/her"  
   bio              : "Research Fellow"
